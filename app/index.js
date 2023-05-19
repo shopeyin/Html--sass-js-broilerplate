@@ -1,2 +1,2 @@
-import x from './test'
-console.log(x)
+import testing from './test'
+console.log(testing)

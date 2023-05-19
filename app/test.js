@@ -1,2 +1,2 @@
-const x = 'Anita'
-module.exports = x
+const testing = 'JavaScript running'
+module.exports = testing
